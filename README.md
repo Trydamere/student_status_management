@@ -10,7 +10,9 @@
 
 技术栈：vue+springboot+hyperledger fabric
 
-将成绩和补考成绩的状态数据记录在区块中
+教学成绩管理系统参考博客:[教学成绩管理系统](https://blog.csdn.net/symuamua/article/details/107528360)
+
+将成绩和补考成绩的状态数据记录在区块中，实现成绩防篡改。
 
 
 
