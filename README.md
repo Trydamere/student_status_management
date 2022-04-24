@@ -28,12 +28,13 @@
 cd fabric-samples/fabcar
 ./startFabric.sh go
 cd fabric-samples/test-network
-docker-compose up -d
 
 cd organizations/peerOrganizations/org1.example.com/users/User1@org1.example.com/msp/keystore/
 mv *_sk pri_sk
 cd organizations/peerOrganizations/org2.example.com/users/User1@org2.example.com/msp/keystore/
 mv *_sk pri_sk
+
+docker-compose up -d
 ```
 
 - 打包前端
@@ -61,6 +62,7 @@ cd fabric-samples/test-network
 docker-compose down -v
 ```
 
+- 访问8080 8081
 
 
 docker查看日志
