@@ -4,7 +4,7 @@
 
 ## 项目介绍
 
-
+本科毕设
 
 基于区块链的教学成绩管理系统
 
@@ -14,7 +14,7 @@
 
 将成绩和补考成绩的状态数据记录在区块中，实现成绩防篡改。
 
-
+答辩展示: https://www.bilibili.com/video/BV1hF411V7dd?share_source=copy_web
 
 ## 部署教程
 
